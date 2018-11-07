@@ -3,11 +3,16 @@ body{
     }
 h1{
     color:white;
-    border:solid;}
-p{
+    border:solid;
+    float:right;}
+p  {
     color:white;
     font-size:2em;
+    font-style:italic;
+   }
+img {
+    height: 300px;
     }
-    
+
     
     
